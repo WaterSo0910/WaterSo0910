@@ -1,4 +1,4 @@
-<h1 align="center">GM 👋 Here is Waterso</h1>
+<h1 align="center">GM 👋 I'm waterso</h1>
 <h3 align="center">Co-Founder of Ton Dynasty</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WaterSo0910&label=Profile%20views&color=0e75b6&style=flat" alt="WaterSo0910" /> </p>

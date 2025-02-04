@@ -1,17 +1,16 @@
-<h1 align="center">GM 👋 I'm waterso</h1>
+<h1 align="center">GM 👋 I'm Jacky</h1>
+<h3 align="center">🔥 Head of Infra <a href='https://torch.finance'>@Torch Finance</a></h3>
 <h3 align="center">Co-Founder of Ton Dynasty</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WaterSo0910&label=Profile%20views&color=0e75b6&style=flat" alt="WaterSo0910" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WaterSo0910&theme=tokyonight" alt="WaterSo0910" /></a> </p>
 
-- 🔭 I’m currently working on [**Ton Dynasty Contracts**](https://github.com/Ton-Dynasty/tondynasty-contracts)
+- 🌱 I’m currently working on **The Open Network (TON)**
 
-- 🌱 I’m currently learning **The Open Network | Security analysis of blockchain**
+- 💬 Ask me about **smart contract, full stack, devOps, ui/ux**
 
-- 💬 Ask me about **solidity, tact, golang, react, ts, devOps, gitOps, ML**
-
-- 📫 How to reach me **snoopy.11@nycu.edu.tw**
+- 📫 How to reach me **infra@alpoca.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

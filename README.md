@@ -1,12 +1,11 @@
 <h1 align="center">GM 👋 I'm Jacky</h1>
-<h3 align="center">🔥 Head of Infra <a href='https://torch.finance'>@Torch Finance</a></h3>
-<h3 align="center">Co-Founder of Ton Dynasty</h3>
+<h3 align="center">🔥 Head of Infra <a href='https://torch.finance'>@Torch Finance</a> <a href='https://tgusd.io'>@Telegram USD</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WaterSo0910&label=Profile%20views&color=0e75b6&style=flat" alt="WaterSo0910" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WaterSo0910&theme=tokyonight" alt="WaterSo0910" /></a> </p>
 
-- 🌱 I’m currently working on **The Open Network (TON)**
+- 🌱 I’m currently working on **blockchain**
 
 - 💬 Ask me about **smart contract, full stack, devOps, ui/ux**
 

@@ -1,7 +1,6 @@
 <h1 align="center">GM 👋 I'm Jacky</h1>
 <h3 align="center">🔥 Head of Infra <a href='https://torch.finance'>@Torch Finance</a> <a href='https://tgusd.io'>@Telegram USD</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WaterSo0910&label=Profile%20views&color=0e75b6&style=flat" alt="WaterSo0910" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WaterSo0910&theme=tokyonight" alt="WaterSo0910" /></a> </p>
 
@@ -22,9 +21,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,redis,go,notion,nginx,cloudflare,postgres,mysql,mongodb,matlab,gitlab,github,c,cpp,discord,twitter,ubuntu)](https://skillicons.dev)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?&theme=tokyonight&username=WaterSo0910&show_icons=true&locale=en&layout=compact" alt="WaterSo0910" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WaterSo0910&theme=tokyonight&show_icons=true&locale=en" alt="WaterSo0910" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WaterSo0910&theme=tokyonight" alt="WaterSo0910" /></p>
